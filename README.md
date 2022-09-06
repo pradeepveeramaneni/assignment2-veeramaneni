@@ -64,7 +64,7 @@ _________
 
 
 |  city    |      Location    |    Time spent |
-|  :---    |       ---        |   ---:---     |
+|  :---    |       ---        |   :---     |
 |Hyderabad |Bhagyalaxmi_temple|    1:00hr     |
 |Delhi     |aksharadham temple|    30:00min   |
 |Ayodhya   |ayodhya temple    |    2:00hrs    |
