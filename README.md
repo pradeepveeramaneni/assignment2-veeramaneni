@@ -58,15 +58,25 @@ _________
 ------
 
 >I will prefer my friends to visit 4 temples in four different cities in India which follows.
->>I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes 
-(:left/:center:/right:).
+>>I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes (:left/:center:/right:).
 >>Can add spaces to help readability
 
 
 |  city    |      Location    |    Time spent |
-|  :---    |       ---        |   :---     |
+|  :---    |       ---        |   :---        |
 |Hyderabad |Bhagyalaxmi_temple|    1:00hr     |
 |Delhi     |aksharadham temple|    30:00min   |
 |Ayodhya   |ayodhya temple    |    2:00hrs    |
 |Thirupathi|thirumala temple  |  4:00-5:00hrs |
+
+
+-------
+# Pithy Quotes using Blockquote
+
+
+>“Mathematicians deal with large numbers sometimes, but never in their income.”
+_Iasac Asimov_
+
+>“It's always darkest before you're blinded by the light”
+_josh stern_
 
