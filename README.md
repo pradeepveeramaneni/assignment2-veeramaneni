@@ -10,7 +10,7 @@ Not only rich collection, Hyderabad Museum / Telangana State Archaeology Museum 
 
 *****
 ### Directions to Birla Mandir(Using ORDERED_LIST)
-__________
+
 1. Take Begumpet Airport Road to Begumpet Rd/Sardar Patel Rd in Old Patigadda 3 min (1.0 km)
 2. Head north on Begumpet Airport Road 38 m
 3. Turn right toward Begumpet Airport Road 35 m
@@ -29,7 +29,7 @@ __________
 
 --------
 ### Directions to Birla Mandir(using UNORDERED_LIST):
-******
+
 * Telangana State Archaeology Museum
   * I Floor, H A C A Bhavan, P G Road, 5-10-193, Srinagar - Kanyakumari Hwy
   * near Control Room, Lakdikapul, Hyderabad, Telangana 500004, India
@@ -55,7 +55,7 @@ __________
 _________
 
 # Table with 4 cities using markdown
-------
+
 
 >I will prefer my friends to visit 4 temples in four different cities in India which follows.
 >>I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes (:left/:center:/right:).
@@ -82,3 +82,18 @@ _Iasac Asimov_
 
 _josh stern_
 
+*****
+
+# Code fencing section
+
+
+
+>What do these CSS code snippets do?
+>>Select direct child element with class .overlay which parent element has class .main-base which previous sibling has id #nav-collapse YOUR answer<https://stackoverflow.com/questions/34415127/what-do-these-css-code-snippets-do> 
+
+```
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+```
+code snippet<https://css-tricks.com/snippets/css/system-font-stack/>
