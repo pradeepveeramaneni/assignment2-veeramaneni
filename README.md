@@ -75,8 +75,10 @@ _________
 
 
 >“Mathematicians deal with large numbers sometimes, but never in their income.”
+
 _Iasac Asimov_
 
 >“It's always darkest before you're blinded by the light”
+
 _josh stern_
 
