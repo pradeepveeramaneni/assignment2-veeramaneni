@@ -57,9 +57,11 @@ _________
 # Table with 4 cities using markdown
 
 
->I will prefer my friends to visit 4 temples in four different cities in India which follows.
->>I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes (:left/:center:/right:).
->>Can add spaces to help readability
+I will prefer my friends to visit 4 temples in four different cities in India which follows.
+
+I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes (:left/:center:/right:).
+
+Can add spaces to help readability
 
 
 |  city    |      Location    |    Time spent |
@@ -76,11 +78,11 @@ _________
 
 >“Mathematicians deal with large numbers sometimes, but never in their income.”
 
-_Iasac Asimov_
+>>authour: _Iasac Asimov_
 
 >“It's always darkest before you're blinded by the light”
 
-_josh stern_
+>>authour: _josh stern_
 
 *****
 
