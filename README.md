@@ -60,7 +60,9 @@ _________
 >I will prefer my friends to visit 4 temples in four different cities in India which follows.
 >>I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes 
 (:left/:center:/right:).
-■Can add spaces to help readability
+>>Can add spaces to help readability
+
+
 |  city    |      Location    |    Time spent |
 |  :---    |       ---        |   ---:---     |
 |Hyderabad |Bhagyalaxmi_temple|    1:00hr     |
