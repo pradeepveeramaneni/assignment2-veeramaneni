@@ -1,6 +1,6 @@
 # assignment2-veeramaneni
-#Pradeep Rao Veeramaneni
-######Telangana State Archaeology Museum
+# Pradeep Rao Veeramaneni
+###### Telangana State Archaeology Museum
 
 This museum's most poular attraction is its Egyptian mummy of Princess Naishu which was brought in 1930 to Hyderabad by Nasir Nawaz Jung, the son-in-law of Asaf Jah.**It is one of the six Egyptian mummies in India**, the others being in Lucknow, Mumbai, Vadodara, Jaipur, and Kolkata.The mummy, which previously was deteriorating, was restored in 2016 and placed in an __oxygen-free case__.
 
@@ -9,7 +9,7 @@ Telangana State Archaeology Museum boasts of unique kind of collections. One suc
 Not only rich collection, Hyderabad Museum / Telangana State Archaeology Museum attracts you with its marvelous architecture as well. It has been built in the **Indo-Saracenic style and boasts of artistically designed interiors and a magnificent exterior**.
 
 *****
-###Directions to Birla Mandir(Using ORDERED_LIST)
+### Directions to Birla Mandir(Using ORDERED_LIST)
 __________
 1. Take Begumpet Airport Road to Begumpet Rd/Sardar Patel Rd in Old Patigadda 3 min (1.0 km)
 2. Head north on Begumpet Airport Road 38 m
@@ -28,7 +28,7 @@ __________
 8. Drive destination : Telangana State Archaeology Museum.
 
 --------
-###Directions to Birla Mandir(using UNORDERED_LIST):
+### Directions to Birla Mandir(using UNORDERED_LIST):
 ******
 * Telangana State Archaeology Museum
   * I Floor, H A C A Bhavan, P G Road, 5-10-193, Srinagar - Kanyakumari Hwy
@@ -51,3 +51,20 @@ __________
 
 
 [click to goto file AboutMe.md](https://github.com/pradeepveeramaneni/assignment2-veeramaneni/blob/9eeb6c7559d43362988ed48ecc1658bf8cc27285/AboutMe.md)
+
+_________
+
+# Table with 4 cities using markdown
+------
+
+>I will prefer my friends to visit 4 temples in four different cities in India which follows.
+>>I used bars (pipes) to separate cities,location,Time.Used dashes to separate headers from data.then used to show alignment on dashes 
+(:left/:center:/right:).
+■Can add spaces to help readability
+|  city    |      Location    |    Time spent |
+|  :---    |       ---        |   ---:---     |
+|Hyderabad |Bhagyalaxmi_temple|    1:00hr     |
+|Delhi     |aksharadham temple|    30:00min   |
+|Ayodhya   |ayodhya temple    |    2:00hrs    |
+|Thirupathi|thirumala temple  |  4:00-5:00hrs |
+
