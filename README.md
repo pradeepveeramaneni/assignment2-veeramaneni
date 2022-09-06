@@ -9,7 +9,7 @@ Telangana State Archaeology Museum boasts of unique kind of collections. One suc
 Not only rich collection, Hyderabad Museum / Telangana State Archaeology Museum attracts you with its marvelous architecture as well. It has been built in the **Indo-Saracenic style and boasts of artistically designed interiors and a magnificent exterior**.
 
 *****
-### Directions to Birla Mandir(Using ORDERED_LIST)
+### Directions to take Begumpet Airport near to museum(Using ORDERED_LIST):
 
 1. Take Begumpet Airport Road to Begumpet Rd/Sardar Patel Rd in Old Patigadda 3 min (1.0 km)
 2. Head north on Begumpet Airport Road 38 m
@@ -27,7 +27,7 @@ Not only rich collection, Hyderabad Museum / Telangana State Archaeology Museum 
 10. At Public Garden X Rd, take the 4th exit and stay on NH 44/NH65 170 m
 8. Drive destination : Telangana State Archaeology Museum.
 
---------
+
 ### Directions to Birla Mandir(using UNORDERED_LIST):
 
 * Telangana State Archaeology Museum
